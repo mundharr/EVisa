@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150189982482",
+    "project_id": "evisa-fb8e1",
+    "storage_bucket": "evisa-fb8e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150189982482:android:2dba6d276a3c0ceb6a29cb",
+        "android_client_info": {
+          "package_name": "com.example.evisa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaW7eu0HRKQDCM70qKD6x3gCBkltexAbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

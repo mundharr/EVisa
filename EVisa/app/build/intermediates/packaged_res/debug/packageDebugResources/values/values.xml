@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="errorColor">#B00020</color>
+    <color name="lightGray">#D3D3D3</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">EVisa</string>
+    <string name="gcm_defaultSenderId" translatable="false">150189982482</string>
+    <string name="google_api_key" translatable="false">AIzaSyDaW7eu0HRKQDCM70qKD6x3gCBkltexAbU</string>
+    <string name="google_app_id" translatable="false">1:150189982482:android:2dba6d276a3c0ceb6a29cb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDaW7eu0HRKQDCM70qKD6x3gCBkltexAbU</string>
+    <string name="google_storage_bucket" translatable="false">evisa-fb8e1.appspot.com</string>
+    <string name="project_id" translatable="false">evisa-fb8e1</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:buttonStyle">@style/Widget.MaterialComponents.Button</item>
+    </style>
+    <style name="Base.Theme.EVisa" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.EVisa" parent="Base.Theme.EVisa"/>
+</resources>
